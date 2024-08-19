@@ -1,6 +1,6 @@
 {
-  "name": "@dsb-norge/vue-keycloak-js",
-  "version": "2.4.0",
+  "name": "@bruxless/vue-keycloak-js",
+  "version": "2.5.2",
   "author": "Norwegian Directorate for Civil Protection",
   "description": "A Keycloak plugin for Vue >= 2.x",
   "main": "dist/dsb-vue-keycloak.cjs.js",
@@ -10,14 +10,14 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git@github.com:dsb-norge/vue-keycloak-js.git"
+    "url": "git@github.com/bruxless/vue-keycloak-js.git"
   },
   "bugs": {
-    "url": "https://github.com/dsb-norge/vue-keycloak-js/issues"
+    "url": "https://github.com/bruxless/vue-keycloak-js/issues"
   },
-  "homepage": "https://github.com/dsb-norge/vue-keycloak-js",
+  "homepage": "https://github.com/bruxless/vue-keycloak-js",
   "dependencies": {
-    "keycloak-js": "21.1.2"
+    "keycloak-js": "25.0.4"
   },
   "keywords": [
     "vue",
